@@ -1,2 +1,2 @@
 # Repositoriopersonal
-nuevo commit 
+inauguracion de nuevo repsitorio
