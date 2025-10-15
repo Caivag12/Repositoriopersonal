@@ -1,0 +1,5 @@
+/workspaces/Repositoriopersonal/obj/Debug/net8.0/Repositoriopersonal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repositoriopersonal/obj/Debug/net8.0/Repositoriopersonal.AssemblyInfoInputs.cache
+/workspaces/Repositoriopersonal/obj/Debug/net8.0/Repositoriopersonal.AssemblyInfo.cs
+/workspaces/Repositoriopersonal/obj/Debug/net8.0/Repositoriopersonal.csproj.CoreCompileInputs.cache
+/workspaces/Repositoriopersonal/obj/Debug/net8.0/Repositoriopersonal.sourcelink.json
