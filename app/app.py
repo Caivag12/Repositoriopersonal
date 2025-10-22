@@ -1,4 +1,4 @@
-from Repositoriopip import request
+from Repositoriopip import Repositoiopip 
 
 def saludo(nombre):
 	return f"Hola {nombre}"
