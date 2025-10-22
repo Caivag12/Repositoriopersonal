@@ -1,6 +1,4 @@
-from Repositoriopip import nombre
+from Repositoriopip import saludar
 
-def saludo(nombre):
-	return f"Hola {nombre}"
 
-print(saludo("ivan"))
+print(saludar("ivan"))
